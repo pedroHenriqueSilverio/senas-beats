@@ -1,0 +1,30 @@
+.TelaLogin{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+.inputEmail, .inputSenha{
+    width: 220%;
+    height: 300%;
+
+}
+.inputEmail{
+    top: 290px;
+    position: relative;
+   
+    
+}
+.inputSenha{
+    top: 340px;
+    position: relative;
+}
+.criarConta {
+    top: 350px;
+    position: relative;
+}
+.criarConta2{
+    left: 115px;
+    top: 300px;
+    position: relative;
+}
